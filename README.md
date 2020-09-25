@@ -20,6 +20,12 @@ Este estudio de la calidad del aire en Madrid durante 2019 nos parece muy intere
 
 La escala de colores de nuestro mapa se rige por los criterios de la OMS para las PM2,5, En verde los valores por debajo de 10 ug/m3, transicionando hacia el amarillo, naranja y rojo cuando los valores superan los 25 ug/m3.
 
+# Oxógonos
+
+Los Oxógonos son nuestros medidores. Hemos desarrollado su diseño, programación y fabricación a través de procesos colaborativos que han tenido lugar en Medialab Prado durante el transcurso del proyecto. Los Oxógonos son el fruto del pensamiento colectivo, la energía y el saber hacer de muchas personas que se han involucrado en el proceso, provenientes de distintos contextos, saberes, edades, lugares y momentos. Los Oxógonos respiran, están vivos y abiertos a la experimentación; son libres, como su código.
+
+Puedes llevarte un Oxógono portátil en tus paseos por la ciudad, en tus rutas en bicicleta o cuando salgas a correr. Puedes tomar uno prestado en Medialab o fabricarte el tuyo propio con el material del repositorio RespiramosConMadrid/Oxogono.
+
 # El Mapa
 
 El mapa de la página web del proyecto (www.respiramosconmadrid.com) representa los valores medidos por los usuarios y usuarias en sus paseos por la ciudad, desde sus hogares, portales o lugares de trabajo, en bicicleta, caminando o sentadas. Los Oxógonos miden los niveles de partículas en el aire en tiempo real, geolocalizando los puntos de medida para que tenga sentido su visualización en el mapa. Cualquier persona con un Oxógono, podrá registrarse en la web y comenzar a subir sus rutas y los valores correspondientes de PM a los que se ha expuesto.
