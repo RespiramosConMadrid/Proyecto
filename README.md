@@ -17,7 +17,9 @@ La legislación europea establece un valor límite anual para las partículas PM
 
 También un valor límite anual para las partículas PM10 de 40ug/m3, sin embargo la OMS recomienda valores inferiores a los 20 ug/m3.
 
-Este estudio de la calidad del aire en Madrid durante 2019 nos parece muy interesante. También esta evaluación del Plan de Calidad del Aire y Cambio Climático del Ayto. de Madrid. 
+Este estudio (https://www.ecologistasenaccion.org/wp-content/uploads/2020/01/info-calidad-aire-madrid-2019.pdf
+) de la calidad del aire en Madrid durante 2019 nos parece muy interesante. También esta evaluación del Plan de Calidad del Aire y Cambio Climático del Ayto. de Madrid (https://www.madrid.es/UnidadesDescentralizadas/UDCMovilidadTransportes/AreaCentral/ficheros/Ayuntamiento%20Madrid%20evaluacion%20efecto%20Plan%20A%20UPM.pdf
+). 
 
 La escala de colores de nuestro mapa se rige por los criterios de la OMS para las PM2,5, En verde los valores por debajo de 10 ug/m3, transicionando hacia el amarillo, naranja y rojo cuando los valores superan los 25 ug/m3.
 
