@@ -7,12 +7,13 @@ El proyecto nace como Satélites DIY en 2018 y toma la forma actual como parte d
 
 # Qué Medimos
 
-La contaminación es un término muy amplio que engloba componentes distintos. En nuestro proyecto nos centramos en las partículas volátiles, material particulado respirable presente en la atmósfera en forma sólida o líquida.   Estas partículas según su tamaño se dividen principalmente en dos grupos: 
+La contaminación es un término muy amplio que engloba componentes distintos. En nuestro proyecto nos centramos en las partículas volátiles, material particulado respirable presente en la atmósfera en forma sólida o líquida.   Estas partículas según su tamaño se dividen principalmente en dos grupos:
+
 •	PM10, de diámetro igual o inferior a 10 um provenientes de fuentes naturales como el polen o polvo sahariano o artificiales como la combustión de los vehículos de gasolina. 
 
 •	PM2.5, de diámetro inferior a 2,5 um, asociadas a la combustión, en particular proveniente de calderas y vehículos diésel. Varios estudios científicos asocian este tipo de contaminación con el aumento de las enfermedades respiratorias ya que, debido a su reducido tamaño, penetran en los alveolos pulmonares e incluso llegan al torrente sanguíneo.
 
-La legislación europea establece un valor límite anual para las partículas PM2.5, las más dañinas para la salud, fijado en 25 ug/m3, muy superior al recomendado por la OMS, 10 ug/m3, para una adecuada protección de la salud humana. 
+La legislación europea establece un valor límite anual para las partículas PM2.5, las más dañinas para la salud, fijado en 25 ug/m3, muy superior al recomendado por la OMS, 10 ug/m3, para una adecuada protección de la salud humana. 
 
 También un valor límite anual para las partículas PM10 de 40ug/m3, sin embargo la OMS recomienda valores inferiores a los 20 ug/m3.
 
