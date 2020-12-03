@@ -31,7 +31,7 @@ Puedes llevarte un Oxógono portátil en tus paseos por la ciudad, en tus rutas 
 
 # El Mapa
 
-El mapa de la página web del proyecto (www.respiramosconmadrid.com) representa los valores medidos por los usuarios y usuarias en sus paseos por la ciudad, desde sus hogares, portales o lugares de trabajo, en bicicleta, caminando o sentadas. Los Oxógonos miden los niveles de partículas en el aire en tiempo real, geolocalizando los puntos de medida para que tenga sentido su visualización en el mapa. Cualquier persona con un Oxógono, podrá registrarse en la web y comenzar a subir sus rutas y los valores correspondientes de PM a los que se ha expuesto.
+El mapa de la página web del proyecto (respiramos.medialab-prado.es) representa los valores medidos por los usuarios y usuarias en sus paseos por la ciudad, desde sus hogares, portales o lugares de trabajo, en bicicleta, caminando o sentadas. Los Oxógonos miden los niveles de partículas en el aire en tiempo real, geolocalizando los puntos de medida para que tenga sentido su visualización en el mapa. Cualquier persona con un Oxógono, podrá registrarse en la web y comenzar a subir sus rutas y los valores correspondientes de PM a los que se ha expuesto.
 
 
 
