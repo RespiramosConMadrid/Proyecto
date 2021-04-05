@@ -36,5 +36,8 @@ Puedes llevarte un Oxógono portátil en tus paseos por la ciudad, en tus rutas 
 
 El mapa de la página web del proyecto muestra los valores medidos por los usuarios y usuarias en sus paseos por la ciudad, desde sus hogares, portales o lugares de trabajo, en bicicleta, caminando o sentadas. Los Oxógonos miden los niveles de partículas en el aire en tiempo real, geolocalizando los puntos de medida para que tenga sentido su visualización en el mapa. Cualquier persona con un Oxógono, podrá registrarse en la web y comenzar a subir sus rutas y los valores correspondientes de PM a los que se ha expuesto.
 
+<img width="650" alt="Captura de pantalla 2021-03-31 a las 11 42 42" src="https://user-images.githubusercontent.com/22861753/113603558-63214780-9644-11eb-9a80-3428e09671dc.png">
+<img width="650" alt="Captura de pantalla 2021-03-31 a las 11 42 50" src="https://user-images.githubusercontent.com/22861753/113603591-6ae0ec00-9644-11eb-80ee-8bd18ca8b562.png">
+
 
 
